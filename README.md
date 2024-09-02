@@ -1,6 +1,6 @@
 #### NAME:  ESWANTH KUMAR K
 #### REG NO: 212223040046
-## EXPERIMENT NO: 2 Control of Relay Using IoT controller
+# EXPERIMENT NO: 2 Control of Relay Using IoT controller
 ##  AIM:
 To control the Relay using Arduino controller
 ## Software required:
